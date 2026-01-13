@@ -4,6 +4,14 @@ An educational web application that estimates the glucose impact of meals and vi
 
 This project is designed for learning, experimentation, and personal insight. It is not a medical device and does not provide medical advice.
 
+## ⚠️ Usage Notice
+
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, deploy, or redistribute this project without contacting me first**.
+
+If you are interested in using this project, integrating it into a product, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
+
 ---
 
 ## Overview
@@ -11,14 +19,13 @@ This project is designed for learning, experimentation, and personal insight. It
 Glucose Impact Analyzer AI helps users understand how different meals may affect blood glucose levels by analyzing macronutrients and simple contextual factors.
 
 Users input meal information and receive:
-- A glucose impact score from 0 to 100
-- An estimated peak glucose rise
-- A 2-hour predicted glucose curve
-- A clear explanation of how the estimate was calculated
+
+- A glucose impact score from 0 to 100  
+- An estimated peak glucose rise  
+- A 2-hour predicted glucose curve  
+- A clear explanation of how the estimate was calculated  
 
 The system is intentionally transparent and modular so the prediction model can be improved over time.
-
----
 
 ## Features
 
@@ -30,26 +37,30 @@ The system is intentionally transparent and modular so the prediction model can 
 - Next.js frontend
 - Docker support for local development
 
----
-
 ## Tech Stack
 
-**Frontend**
+### Frontend
 - Next.js (App Router)
 - React
 - Recharts
 
-**Backend**
+### Backend
 - FastAPI
 - Python
 - NumPy
 - SQLModel (SQLite)
 
-**Infrastructure**
+### Infrastructure
 - Docker
 - Docker Compose
 
----
+## About
 
-## Project Structure
+A simple, educational web app that estimates the glucose impact of a meal and predicts a short glucose curve.
 
+## Topics
+
+ai  
+health  
+analysis  
+web  
