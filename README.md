@@ -1,4 +1,4 @@
-# Glucose Impact Analyzer AI
+# Glucose Impact Analyzer
 
 An educational web application that estimates the glucose impact of meals and visualizes a predicted short-term glucose response using an explainable AI model.
 
